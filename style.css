@@ -387,11 +387,11 @@ body {
   }
 
   .logo-img {
-    height: 32px;
+    height: 34px;
   }
 
   .logo-text {
-    font-size: 18px;
+    display: none;
   }
 
   .nav-links {
